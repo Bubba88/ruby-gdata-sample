@@ -1,0 +1,126 @@
+10
+
+dir
+233
+http://gdata-samples.googlecode.com/svn/trunk/doclist/DocListManager
+http://gdata-samples.googlecode.com/svn
+
+
+
+2009-08-29T04:14:54.407332Z
+189
+api.eric@google.com
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+14958b2e-7955-0410-8a8d-a5d105d17ecf
+
+test
+dir
+
+app
+dir
+
+tmp
+dir
+
+Rakefile
+file
+
+
+
+
+2012-03-04T14:50:04.000000Z
+17f2f134da4cd31ea095d5868ca89e86
+2009-02-18T20:34:22.185956Z
+116
+api.eric@google.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+307
+
+script
+dir
+
+config
+dir
+
+db
+dir
+
+doc
+dir
+
+lib
+dir
+
+vendor
+dir
+
+README
+file
+
+
+
+
+2012-03-04T14:50:04.000000Z
+0cdf56769f20a2b73a929ac3ba633152
+2009-02-18T20:34:22.185956Z
+116
+api.eric@google.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+10619
+
+public
+dir
+

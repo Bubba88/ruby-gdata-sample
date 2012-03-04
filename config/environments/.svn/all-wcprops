@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/116/trunk/doclist/DocListManager/config/environments
+END
+test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/116/trunk/doclist/DocListManager/config/environments/test.rb
+END
+development.rb
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/116/trunk/doclist/DocListManager/config/environments/development.rb
+END
+production.rb
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/116/trunk/doclist/DocListManager/config/environments/production.rb
+END

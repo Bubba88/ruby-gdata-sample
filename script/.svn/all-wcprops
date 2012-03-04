@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/116/trunk/doclist/DocListManager/script
+END
+console
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/116/trunk/doclist/DocListManager/script/console
+END
+server
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/116/trunk/doclist/DocListManager/script/server
+END
+dbconsole
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/116/trunk/doclist/DocListManager/script/dbconsole
+END
+destroy
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/116/trunk/doclist/DocListManager/script/destroy
+END
+runner
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/116/trunk/doclist/DocListManager/script/runner
+END
+about
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/116/trunk/doclist/DocListManager/script/about
+END
+generate
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/116/trunk/doclist/DocListManager/script/generate
+END
+plugin
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/116/trunk/doclist/DocListManager/script/plugin
+END
